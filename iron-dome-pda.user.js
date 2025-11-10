@@ -13,7 +13,7 @@
 
   const CONFIG = {
     // ✅ Live JSON (canonical raw form on your repo)
-    sourceUrl: 'https://raw.githubusercontent.com/WetNightmare/FactionAlliance/main/iron-dome-factions.json',
+    sourceUrl: 'https://wetnightmare.github.io/FactionAlliance/iron-dome-factions.json',
     // ✅ Hosted banner
     bannerUrl: 'https://github.com/WetNightmare/FactionAlliance/blob/f373bfec9fd256ca995895a19c64141c05c685a0/iron-dome-banner-750x140.png?raw=true',
 
