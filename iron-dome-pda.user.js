@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Torn PDA: Iron Dome Checker (Hardcoded, Robust DOM Logic)
-// @namespace    WetNightmare
+// @namespace    WetNightmare - GargoyleGoliath [3684397]
 // @version      3.1.0
 // @description  Inserts banner under .buttons-list when the profile's faction is in a hardcoded list. SPA-safe, debounced, original selectors.
 // @match        https://www.torn.com/profiles.php*
