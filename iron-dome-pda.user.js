@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Torn PDA: Iron Dome Checker + List Manager (Toolbar Only)
-// @namespace    WetNightmare
+// @namespace    WetNightmare - GargoyleGoliath [3684397]
 // @version      2.1.3
 // @description  Banner for Iron Dome members + built-in list editor. Inserts editor button beside the Report button on profiles only; no floating fallback.
 // @match        https://www.torn.com/*
